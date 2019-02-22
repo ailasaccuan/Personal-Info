@@ -4,3 +4,5 @@ BIRTHDATE: January 14, 2000							AGE: 19
 SEX:Female 									CIVIL STATUS: Single
 EMAIL: ailamarie.saccuan.eng@ust.edu.ph						CONTACT NUMBER: 09270469221
 RELIGION: Roman Catholic							NATIONALITY: Filipino
+FATHER: Jerry A. Saccuan
+MOTHER: Aurora S. Saccuan
